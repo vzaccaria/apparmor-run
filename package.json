@@ -1,0 +1,18 @@
+{
+  "name": "apparmor-run",
+  "version": "0.0.1",
+  "description": "your description here",
+  "bin": {
+    "apparmor-run": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  ],
+  "author": "Vittorio Zaccaria",
+  "license": "BSD",
+  "dependencies": {
+    "docopt": "~0.4.1"
+  }
+}
