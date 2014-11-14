@@ -1,0 +1,9 @@
+# Last Modified: Thu Nov 13 09:08:43 2014
+#include <tunables/global>
+
+/home/zaccaria/armor-test/main flags=(complain) {
+  #include <abstractions/base>
+
+  /home/zaccaria/armor-test/main mr,
+
+}
